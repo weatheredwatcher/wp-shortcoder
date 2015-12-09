@@ -1,12 +1,12 @@
 === Shortcoder ===
-Contributors: vaakash
-Author URI: http://www.aakashweb.com/
-Plugin URI: http://www.aakashweb.com/wordpress-plugins/shortcoder/
+Contributors: vaakash, weatheredwatcher
+Author URI: http://www.weatheredwatcher.com
+Plugin URI: http://github.com/weatheredwatcher/wp-shortcoder
 Tags: shortcode, ads, adsense, advertising, bookmark, bookmarking, bookmarks, custom, embed, feed, feeds, rss, flash, html, image, images, javascript, jquery, link, links, media, page, pages, youtube, plugin, post, posts, share, social, social bookmarking, form, template, video, yahoo
 Donate link: http://bit.ly/scDonate
 License: GPLv2 or later
 Requires at least: 3.3
-Tested up to: 3.9.1
+Tested up to: 4.4
 Stable tag: 3.4
 
 Create custom "Shortcodes" with HTML, Javascript snippets stored in it and use that shortcode within posts and pages. Check the demo video.
@@ -14,6 +14,9 @@ Create custom "Shortcodes" with HTML, Javascript snippets stored in it and use t
 == Description ==
 
 Shortcoder is a plugin which allows to create a custom shortcode and store HTML, Javascript and other snippets in it. So if that shortcode is used in any post or pages, then the code stored in the shortcode get exceuted in that place.
+
+This version has been fixed to work with the Shortcode API changes.
+
 
 [Check out the **LIVE DEMO** of the plugin](http://www.aakashweb.com/demos/super-rss-reader/)
 

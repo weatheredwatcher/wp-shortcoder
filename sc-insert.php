@@ -134,7 +134,7 @@ $(document).ready(function(){
 		}else{
 			name = scname;
 		}
-		sc = '[sc:' + name + ' ' + params + ']';
+		sc = '[sc name=' + name + ' ' + params + ']';
 		
 		if( typeof parent.send_to_editor !== undefined ){
 			parent.send_to_editor(sc);
